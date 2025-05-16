@@ -1,0 +1,3 @@
+([('TruTopsApp',
+   '/Users/sefaozmeral/stil_offer_generator/dist/TruTopsApp',
+   'EXECUTABLE')],)
